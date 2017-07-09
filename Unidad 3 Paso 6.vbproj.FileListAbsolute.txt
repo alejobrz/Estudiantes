@@ -1,0 +1,8 @@
+C:\Users\BETICO\Documents\Visual Studio 2010\Projects\Unidad 3 Paso 6\Unidad 3 Paso 6\bin\Unidad 3 Paso 6.dll
+C:\Users\BETICO\Documents\Visual Studio 2010\Projects\Unidad 3 Paso 6\Unidad 3 Paso 6\bin\Unidad 3 Paso 6.pdb
+C:\Users\BETICO\Documents\Visual Studio 2010\Projects\Unidad 3 Paso 6\Unidad 3 Paso 6\bin\Unidad 3 Paso 6.xml
+C:\Users\BETICO\Documents\Visual Studio 2010\Projects\Unidad 3 Paso 6\Unidad 3 Paso 6\obj\Debug\Unidad_3_Paso_6.Resources.resources
+C:\Users\BETICO\Documents\Visual Studio 2010\Projects\Unidad 3 Paso 6\Unidad 3 Paso 6\obj\Debug\Unidad 3 Paso 6.vbproj.GenerateResource.Cache
+C:\Users\BETICO\Documents\Visual Studio 2010\Projects\Unidad 3 Paso 6\Unidad 3 Paso 6\obj\Debug\Unidad 3 Paso 6.dll
+C:\Users\BETICO\Documents\Visual Studio 2010\Projects\Unidad 3 Paso 6\Unidad 3 Paso 6\obj\Debug\Unidad 3 Paso 6.xml
+C:\Users\BETICO\Documents\Visual Studio 2010\Projects\Unidad 3 Paso 6\Unidad 3 Paso 6\obj\Debug\Unidad 3 Paso 6.pdb
